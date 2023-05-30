@@ -1,4 +1,8 @@
 # Ex-06-Feature-Transformation
+# DATE:
+GITHUB LINK:https://github.com/dineshdk154/Ex-06-Feature-Transformation/edit/main/README.md
+
+COLAB LINK:https://colab.research.google.com/drive/1R3latcvIDLsOJFkyFO-cafV2oymX7gR-
 ## AIM
 To read the given data and perform Feature Transformation process and save the data to a file.
 
